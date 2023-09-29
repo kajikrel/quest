@@ -51,7 +51,7 @@ while true; do
             ;;
 
         "Exit")
-            echo "ありがとうございます！"
+            echo "Thank you!"
             exit 0
             ;;
 
